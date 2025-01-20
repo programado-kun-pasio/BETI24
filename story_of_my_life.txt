@@ -1,4 +1,4 @@
-Es war einmal ein Tag im Leben eines unschuldigen Java-Entwicklers, der auf die wildeste Reise seines Lebens gehen würde. Nun, zumindest dachte er das… Bis er IntelliJ öffnete.
+Es war einmal vor einiger Zeit ein Tag im Leben eines unschuldigen Java-Entwicklers, der auf die wildeste Reise seines Lebens gehen würde. Nun, zumindest dachte er das… Bis er IntelliJ öffnete.
 
 **Kapitel 1: Der Kampf gegen die Nullpointer-Armee**
 Der Tag begann wie jeder andere: Kaffee in der Hand, Hoodie übergeworfen und hochmotiviert mit stolzen 20 Google-Tabs geöffnet. „Heute wird produktiv!“, dachte sich unser Held optimistisch. Doch kaum hatte er den ersten Teil Code geschrieben, da rief es plötzlich durch die Console: **NullPointerException**.
