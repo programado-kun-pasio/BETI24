@@ -1,0 +1,7 @@
+Es war einer dieser Tage: Laptop auf, IntelliJ an, Kaffee in der Hand – bereit, die Welt zu verändern (oder wenigstens den Build-Prozess).
+
+Nach 30 Sekunden: **NullPointerException.** Nach 2 Minuten: **"Gradle resolve dependencies…"** Nach 10 Minuten: Der leise Wunsch, Barista zu werden.
+
+Doch, ein Lichtblick: Der Code kompilierte. Stolz schickte ich meinen Pull-Request raus – nur um von Karl kommentiert zu werden: „Kannst du das noch umbauen?“
+
+Ich baute es um. Deployment scheiterte. Ich baute es nochmal um. Produktion brach zusammen. Fazit des Tages: Auch Bugs sind Feature-Kandidaten. 🍕

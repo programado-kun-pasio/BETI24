@@ -6,6 +6,8 @@ Der Tag begann wie jeder andere: Kaffee in der Hand, Hoodie übergeworfen und ho
 „Wie kannst du… Wo kommst du her?!“, schrie der Entwickler dramatisch. Aber die Konsole antwortete nicht. Sie tat nie. 
 
 **Kapitel 2: Der ewige Kreislauf der Gradle-Reinkarnation**  
+
+Test
 Unser Held entschloss sich tapfer, weiterzumachen. Er öffnete das Terminal und gab den prächtigen Spruch ein: `./gradlew build`. Die magische Formel schien den Tag retten zu können, doch stattdessen… meldete sich ein Gradle-Download der epischen Länge. Was für ihn Minuten fühlte, hätte genauso gut Stunden oder Ewigkeiten bedeuten können. 
 
 „Was tust du da unten? Schläfst du?“ rief er, während er Slack öffnete, nur um dort von einer Flut von @mentions begrüßt zu werden. 
