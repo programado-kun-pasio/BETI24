@@ -26,5 +26,5 @@ Mit letzter Kraft packte er seinen gepatchten Code ins Repository, schaute noch 
 
 Doch da er Entwickler war, wusste er: „Ich löse das später.“ Und so ging er zum Kühlschrank, öffnete ein Kaltgetränk und wartete auf den unvermeidlichen Pager-Duty-Anruf um Mitternacht.
 
-**Die Moral von der Geschicht:**
+**Die Moral von der Geschicht‘:**  
 Im Leben eines Entwicklers ist es manchmal besser, mit Humor zu debuggen, als gegen die Konsole zu weinen. Oder zumindest immer Kaffee in der Nähe zu haben. ☕
